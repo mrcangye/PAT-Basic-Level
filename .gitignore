@@ -1,1 +1,8 @@
 *.exe
+*.cbp
+*.depend
+*.layout
+*.exe
+*.o
+/bin
+/obj
