@@ -45,7 +45,7 @@ int main()
 		}
 		if(issu(number))
 		{
-			printf("%d",number);
+			printf("%0*d",K,number);
 			flag =1;
 			break;
 		}
